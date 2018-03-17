@@ -8,13 +8,13 @@
         combinations.add(currentCombination)
     }
 
-
     // Print if need
     //------
     // for (let comb of combinations) {
     //     console.log(comb);
     // }
     //------
+
 
     return combinations;
 })()
